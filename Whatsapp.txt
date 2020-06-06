@@ -8,4 +8,4 @@ Author: Maniraj S
 
 3. Last seen code
 
-4. Attachements (Image, video, Audio) etc
+4. Attachements (Image, video, Audio, Documents) etc
