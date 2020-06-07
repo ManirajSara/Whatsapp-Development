@@ -9,3 +9,7 @@ Author: Maniraj S
 3. Last seen code
 
 4. Attachements (Image, video, Audio, Documents) etc
+
+5. Adding audio call feature
+
+6. Adding video call feature
