@@ -8,7 +8,7 @@ Author: Maniraj S
 
 3. Last seen code
 
-4. Attachements (Image, video, Audio, Documents) etc
+4. Attachements (Image, video, Audio, Documents, gif) etc
 
 5. Adding audio call feature
 
